@@ -31,6 +31,15 @@ The objective of this project is to analyze sales performance, product profitabi
 * Lowest Performing Product
 * Top Performing Category
 * Revenue Contribution by Category
+# Dashboard Preview
+The dashboard provides insights into:
+- Sales Performance
+- Product Analysis
+- Category Analysis
+- Payment Analysis
+- Sales Channel Analysis
+- Monthly Trend Analysis
+- Profitability Analysis
 # Dashboard Screenshots
 
 ![uploading_Screenshot 2026-05-31 004550.png](https://github.com/Minamagdy333/Super_Market_Sales_Analysis/blob/main/Screenshot%202026-05-31%20004550.png)
@@ -49,7 +58,13 @@ The objective of this project is to analyze sales performance, product profitabi
 * January recorded the highest monthly sales performance ($38K), while sales declined steadily during the following months.
 * Despite the decline in sales volume, profit remained relatively stable, suggesting improved operational efficiency or a greater share of high-margin products in later periods.
 * The combination of stable profitability, diversified payment methods, and strong category performance indicates a healthy business foundation with opportunities for further growth.
-
+# Conclusion
+- The business achieved $366K in sales and maintained a positive profit margin of 9%.
+- Plastic Mat emerged as the top-selling product, while Carpet Roll demonstrated stronger profitability.
+- Personal Care was the primary revenue-generating category.
+- Direct Sales remained the dominant sales channel, while Online Sales showed strong growth potential.
+- Revenue diversification across payment methods reduced dependency on a single payment channel.
+- Despite declining monthly sales trends, profitability remained relatively stable, indicating effective cost management.
 # Tools Used
 - Power BI
 - Power Query
