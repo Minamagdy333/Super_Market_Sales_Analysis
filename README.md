@@ -31,6 +31,7 @@ The objective of this project is to analyze sales performance, product profitabi
 * Revenue Contribution by Category
 # Dashboard Screenshots
 
+![uploading_Screenshot 2026-05-31 004550.png](https://github.com/Minamagdy333/Super_Market_Sales_Analysis/blob/main/Screenshot%202026-05-31%20004550.png)
 # Key Insights
 Total Sales reached $366K, generating $34K in profit with an overall Profit Margin of 9%.
 Plastic Mat was the highest-performing product, generating $21.5K in sales, while Cooking Oil recorded the lowest revenue at $12.5K.
@@ -46,4 +47,10 @@ Revenue was concentrated within three core categories (Personal Care, Household,
 January recorded the highest monthly sales performance ($38K), while sales declined steadily during the following months.
 Despite the decline in sales volume, profit remained relatively stable, suggesting improved operational efficiency or a greater share of high-margin products in later periods.
 The combination of stable profitability, diversified payment methods, and strong category performance indicates a healthy business foundation with opportunities for further growth.
-
+# Tools Used
+- Power BI
+- Power Query
+- DAX
+- ETL Process
+- Data Cleaning
+- Data Modeling
