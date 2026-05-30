@@ -2,6 +2,8 @@
 This Power BI project analyzes sales performance across products, categories, sales channels, and payment methods. The dashboard provides insights into revenue trends, profitability, customer purchasing behavior, and product performance, helping identify key growth drivers and opportunities to improve business performance through data-driven decision-making.
 # Project Objective
 The objective of this project is to analyze sales performance, product profitability, customer purchasing behavior, and revenue trends. The analysis aims to identify top-performing products and categories, evaluate sales channels and payment methods, monitor business growth over time, and uncover opportunities to improve profitability and operational performance.
+# Dataset
+-<a href="https://github.com/Minamagdy333/Super_Market_Sales_Analysis/blob/main/Sales-Dashboard-%20Data.xlsx">Dataset</a>
 # Business Questions
 1. What are the overall sales, profit, and profit margin achieved by the business?
 2. Which products generate the highest and lowest revenue?
